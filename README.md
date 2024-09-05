@@ -184,8 +184,6 @@ ubuntu@fhmfa44nbnh1o8tinisv:~/k8s$
 Так как у меня VM запущена в облаке Yandex, то в выводе виден внутренний адрес VM к котороой привязан белый IP 
 Вывод из браузера: 
 
-[![alt text](<../images/Screenshot 2024-09-05 at 23.09.23.png>)](https://github.com/otuzi/K8S_network_part1/blob/main/images/Screenshot%202024-09-05%20at%2023.09.23.png)
-
 <img width="1547" alt="Screenshot 2024-09-05 at 23 09 23" src="https://github.com/user-attachments/assets/2123035c-e2d3-4a58-9c0a-dfa35bfa144e">
 
 ------
