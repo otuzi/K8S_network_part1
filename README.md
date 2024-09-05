@@ -181,7 +181,8 @@ fhmfa44nbnh1o8tinisv   Ready    <none>   45m   v1.30.4   10.0.1.31     <none>   
 ubuntu@fhmfa44nbnh1o8tinisv:~/k8s$ 
 ```
 
-Так как у меня VM запущена в облаке Yandex, то в выводе виден внутренний адрес VM к котороой привязан белый IP 
+Так как у меня VM запущена в облаке Yandex, то в выводе виден внутренний адрес VM к котороой привязан белый IP 89.169.151.90
+
 Вывод из браузера: 
 
 <img width="1547" alt="Screenshot 2024-09-05 at 23 09 23" src="https://github.com/user-attachments/assets/2123035c-e2d3-4a58-9c0a-dfa35bfa144e">
